@@ -110,7 +110,7 @@ Input:
 Enter number: 10
 
 Output:
-Total is 15
+Total is 30
 ```
 
 ```
@@ -126,4 +126,74 @@ Enter number: 30
 
 Output:
 2, 4, 6, 8, 10, 12, 14, 16, 17, 18, 20, 22, 24, 26, 28, 30
+```
+
+## Make a Program to print total sum of 1 to given number and print exact output
+
+```
+Input:
+Enter number: 5
+
+Output:
+1 + 2 + 3 + 4 + 5 = 15
+```
+
+
+## Make a Program to print total sum of only even number in 1 to given number and print exact output
+
+```
+Input:
+Enter number: 10
+
+Output:
+2 + 4 + 6 + 8 + 10 = 30
+```
+
+## Make a program to sum a numbers as user want
+
+```
+Input
+Enter number: 5
+
+Enter no.1 : 10
+Enter no.2 : 10
+Enter no.3 : 10
+Enter no.4 : 20
+Enter no.5 : 10
+```
+
+```
+Output:
+Total is 60
+```
+
+## Make a ATM
+
+```
+Input
+Enter balance: 10000
+
+------------------------------
+1. See Balance
+2. Withdraw
+3. Deposite
+
+Enter choice: 2
+Enter withdraw amount: 1000
+Transaction have been done successful.....
+
+Final Balance: 9000
+Do you wanna continue(y/n): y
+------------------------------
+1. See Balance
+2. Withdraw
+3. Deposite
+
+Enter choice: 3
+Enter deposite amount: 1000
+Transaction have been done successful.....
+
+Final Balance: 10000
+Do you wanna continue(y/n): n
+Thank you!!!
 ```
