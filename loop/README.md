@@ -197,3 +197,73 @@ Final Balance: 10000
 Do you wanna continue(y/n): n
 Thank you!!!
 ```
+
+## Make a following pattern
+
+```
+Input:
+Enter Number: 5
+
+Output:
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
+```
+
+## Make a following Pattern
+
+```
+Input:
+Enter number: 5
+
+Output
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+```
+
+## Make a following Pattern
+
+```
+Input:
+Enter number: 5
+
+Output:
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+```
+
+## Make a following Pattern
+
+```
+Input:
+Enter number: 5
+
+Output:
+1 2 3 4 5
+1 2 3 4
+1 2 3
+1 2
+1
+```
+
+## Make a following Pattern
+
+```
+Input:
+Enter number: 5
+
+Output:
+* * * * *
+*       *
+*       *
+*       *
+* * * * *
+```
