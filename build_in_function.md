@@ -1,4 +1,4 @@
-# Build in Functions
+# Built-in Common Functions
 
 ## print()
 
