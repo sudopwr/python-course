@@ -119,6 +119,6 @@ Output:
 <class 'float'>
 ```
 
-## more functions and list
+## More functions and List
 
 https://www.w3schools.com/python/python_ref_functions.asp
